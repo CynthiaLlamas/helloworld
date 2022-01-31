@@ -1,3 +1,3 @@
 # helloworld
 myFirstRepo
-Experience in JAVA, CSS, HTML
+Expereince in JAVA, CSS, and HTML
